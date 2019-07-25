@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/SetQuestionsFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/EditQuestionsFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/pojo/QuestionsStore.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/AdminFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/ViewAllStudentsScoreFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/StudentFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/dao/ExamDAO.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/ChangePasswordFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/ViewScoresFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/RegisterStudentFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/animatedlogin.gif</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/TakeTestFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/dao/PerformanceDAO.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/dao/UsersDAO.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/SetPaperFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/pojo/AnswerStore.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/dao/QuestionDAO.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/ViewSingleStudentScoreFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/StudentViewScoresFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/EditPaperFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/dbutil/DBConnection.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/Student-Registration-Icon.png</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/PaperSelectionFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/pojo/Questions.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/TechQuizApplication/src/TQA/gui/SplashScreenFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
